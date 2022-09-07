@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2adbef5.css",
+    "main.js": "/static/js/main.a6dd9e71.js",
+    "static/media/background.jpg": "/static/media/background.a73588759714b2057b29.jpg",
+    "static/media/chuck.png": "/static/media/chuck.c9648be8d885f891c095.png",
+    "static/media/comic.png": "/static/media/comic.fa532ae1d65e99b2e172.png",
+    "static/media/bam.png": "/static/media/bam.db765ab27544d17cec78.png",
+    "static/media/enter-the-dragon.svg": "/static/media/enter-the-dragon.da811ae678081f0e2ab5c2a7217ae42d.svg",
+    "index.html": "/index.html",
+    "main.e2adbef5.css.map": "/static/css/main.e2adbef5.css.map",
+    "main.a6dd9e71.js.map": "/static/js/main.a6dd9e71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2adbef5.css",
+    "static/js/main.a6dd9e71.js"
+  ]
+}
